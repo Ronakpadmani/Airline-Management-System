@@ -10,8 +10,8 @@ import java.util.ArrayList;
 public class Database {
 	
 	private static String url = "jdbc:mysql://localhost/airline management system";
-	private static String user = "ronak";
-	private static String pass = "Ronakpadmani@29";
+	private static String user = "Your-Username";
+	private static String pass = "Your_Password";
 	private Statement statement;
 	
 	public Database() throws SQLException {
